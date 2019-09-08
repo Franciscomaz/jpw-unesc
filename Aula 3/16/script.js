@@ -1,7 +1,7 @@
 function sum(...args) {
     let sum = 0;
-    args.map((value) => sum += value)
+    args.map((value) => sum += value);
     return sum;
 }
   
-console.log(sum(1, 2, 3, 4))
+console.log(sum(1, 2, 3, 4));
