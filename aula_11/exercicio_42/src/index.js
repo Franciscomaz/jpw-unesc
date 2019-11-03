@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import * as serviceWorker from './serviceWorker';
-import Interface from './controller/Interface';
+import Interface from './components/Interface';
 
 ReactDOM.render(<Interface />, document.getElementById('root'));
 
