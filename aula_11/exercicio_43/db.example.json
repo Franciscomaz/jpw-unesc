@@ -1,0 +1,28 @@
+{
+  "computadores": [
+    {
+      "id": 1,
+      "hostname": "192.168.0.89",
+      "processador": "Intel xeon",
+      "memoria": "8gb",
+      "armazenamento": "128gb",
+      "estado": "running"
+    },
+    {
+      "id": 2,
+      "hostname": "192.168.0.23",
+      "processador": "AMD Ryzen 3900x",
+      "memoria": "12gb",
+      "armazenamento": "128gb",
+      "estado": "running"
+    },
+    {
+      "id": 3,
+      "hostname": "192.168.0.45",
+      "processador": "Intel i5 8600k",
+      "memoria": "4gb",
+      "armazenamento": "256gb",
+      "estado": "running"
+    }
+  ]
+}
