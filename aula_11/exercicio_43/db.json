@@ -1,12 +1,3 @@
 {
-  "computadores": [
-    {
-      "id": 2,
-      "hostname": "192.168.0.23",
-      "processador": "AMD Ryzen 3900x",
-      "memoria": "12gb",
-      "armazenamento": "128gb",
-      "estado": "running"
-    }
-  ]
+  "computadores": []
 }

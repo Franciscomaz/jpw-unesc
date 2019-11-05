@@ -15,8 +15,8 @@ function ComputerPage() {
   }, []);
 
   const loadComputers = async () => {
-    const computers = await axios.get(BASE_URL);
-    setComputers(computers.data || []);
+    const response = await axios.get(BASE_URL);
+    setComputers(response.data || []);
   };
 
   const addComputer = payload => {
